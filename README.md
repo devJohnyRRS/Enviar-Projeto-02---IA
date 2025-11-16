@@ -1,4 +1,4 @@
-# README (exemplo) — Resumo para o repositório
+# README
 
 ## Projeto 02 - Esteira de Machine Learning
 Breve: treino de um classificador (RandomForest) para separar salários altos/baixos (base: Dataset salary 2024).
