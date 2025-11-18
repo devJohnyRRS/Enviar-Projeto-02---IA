@@ -9,4 +9,4 @@ Breve: treino de um classificador (RandomForest) para separar salários altos/ba
 3. Abra `Projeto2_ML_Esteira_local.ipynb` e execute todas as células.
 4. Arquivos gerados: `rf_salary_model.joblib`, `model_features.json`.
 
-link video: 
+link video: https://www.youtube.com/watch?v=h4B2LZ85zj0
